@@ -23,5 +23,4 @@ writing in default parameters just in case the user forgets to enter a value.
 enter a value for the parameter when calling a method then it automatically
 puts in the default.
 
-9. A parameter is named if it isn't a number but text. You can pass it to
-a method by putting it into the parenthesis when the method is called.
+9. A parameter is named if it has the name of the variable and a colon and value to use.
