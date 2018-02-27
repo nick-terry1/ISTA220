@@ -1,7 +1,0 @@
-C:\Users\nickt\ista220\labs\TestHello\TestHello\bin\Debug\TestHello.exe.config
-C:\Users\nickt\ista220\labs\TestHello\TestHello\bin\Debug\TestHello.exe
-C:\Users\nickt\ista220\labs\TestHello\TestHello\bin\Debug\TestHello.pdb
-C:\Users\nickt\ista220\labs\TestHello\TestHello\obj\Debug\TestHello.csprojResolveAssemblyReference.cache
-C:\Users\nickt\ista220\labs\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
-C:\Users\nickt\ista220\labs\TestHello\TestHello\obj\Debug\TestHello.exe
-C:\Users\nickt\ista220\labs\TestHello\TestHello\obj\Debug\TestHello.pdb
