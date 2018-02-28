@@ -1,5 +1,10 @@
-C# Homework
-#2 ch2
+#### name: C# Homework#2 ch2
+#### author: nick terry
+#### date: feb 28, 2018
+
+
+
+
 1. A local variable is a name that you declare in your program.
 2. A statement is a command that does something. (has a ; at the end)
 3. Identifiers are names that you use to identify different parts  of your program, like namespaces and classes.

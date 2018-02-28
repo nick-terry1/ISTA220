@@ -1,4 +1,9 @@
-C# CHAPTER 3 HOMEWORK
+#### name: C# CHAPTER 3 HOMEWORK
+#### author: nick terry
+#### date: feb 28, 2018
+
+
+
 
 1. A method is a named location in memory that references a behavior
 

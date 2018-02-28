@@ -1,4 +1,9 @@
-C# ch4
+#### name: C# ch4
+#### author: nick terry
+#### date feb 28, 2018
+
+
+
 
 1. All possible values for boolean expressions are true, and false
 

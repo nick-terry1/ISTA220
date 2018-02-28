@@ -1,5 +1,10 @@
-C# Homework
-ch1
+#### name: C# Homework ch1
+#### author: nick terry
+#### date: feb 28, 2018
+
+
+
+
 1. A console application is a text based program with no UI
 2. Main() tells the program where to start (must be proceded with static)
 3. Namespaces seperate items like classes so that you dont confuse two different items with the same name.
